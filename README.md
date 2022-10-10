@@ -31,10 +31,10 @@ I experienced challenges working with the "Countifs" function when i had to se t
 2. May and June have the highest succes rate for theatre plays.
 
 - What can you conclude about the Outcomes based on Goals?
-1. the lesser the gal, the higher the chances of meeting said goal
+1. the lesser the goal, the higher the chances of meeting said goal
 
 - What are some limitations of this dataset?
-This date set covered period from 2009 to 2017 and covered plays from all categories. If the data was more focused on a spa of 3 years i believe the results would have been more helpful to guide louise for her subsequent campaigns.
+This date set covered period from 2009 to 2017 and covered plays from all categories. If the data was more focused on a span of 3 years i believe the results would have been more helpful to guide louise for her subsequent campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
 A line chart that used date with: the outcome, duration of campaign and the goal set would have given clearer results.
