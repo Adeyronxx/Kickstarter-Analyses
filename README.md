@@ -13,7 +13,8 @@ Lousie requested an analysis of campaigns similar to hers so we can ascertain th
 ### Analysis of Outcomes Based on Launch Date
 In the analysis of the Campaign outcome based on the date of its launch, I focused on results such as the number of failed campaign, successful campaign and cancelled campaigns. I made use of a line chart to present the information, from the line chart we can see that the month of may had the highest number of campaigns, it also had the highest number of failed campaigns followed by the month of october. 
 
-Challenge: A couple of factors can cause the number of campaigns and success rate of campaigns to change. We can assume that the month of May is in summer and more people will want to see plays at that period. I am unable to make an informed analysis just focusing on the time of month and the percentage of success.
+![image](https://user-images.githubusercontent.com/109445468/195150845-cc036682-89bd-4b56-84b1-727f4a0b3a88.png)
+
 
 ### Analysis of Outcomes Based on Goals
 Here, I separated the campaign goals into ranges and tried to determine the rate of success of fundraising based on the goal set. I made use of a line chart here as well. we can see from the information provided that campaign goals that were less than $1,000 had a higher percentage of meeting their goals, closed followed by campaigns whose goals were from $1,000 to $4999.
