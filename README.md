@@ -18,7 +18,8 @@ Challenge: A couple of factors can cause the number of campaigns and success rat
 ### Analysis of Outcomes Based on Goals
 Here, I separated the campaign goals into ranges and tried to determine the rate of success of fundraising based on the goal set. I made use of a line chart here as well. we can see from the information provided that campaign goals that were less than $1,000 had a higher percentage of meeting their goals, closed followed by campaigns whose goals were from $1,000 to $4999.
 
-Challenge: This does not take into consideration the length of time the campaign was opened for.
+![image](https://user-images.githubusercontent.com/109445468/195150629-f6942aa1-68bd-4257-9ede-bc5f7d02ff01.png)
+
 
 
 ### Challenges and Difficulties Encountered
